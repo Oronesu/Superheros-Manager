@@ -69,7 +69,7 @@ SuperHeroManager/
 │   │   ├── types/
 │   │   ├── App.tsx
 │   │   └── main.tsx
-│   ├── .gitignore```
 │   ├── package.json
 │   └── vite.config.ts
+├── .gitignore
 ```
