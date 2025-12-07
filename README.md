@@ -17,6 +17,12 @@ Lancer mongosh pour démarrer le serveur MongoDB
 ```bash 
 cd backend
 npm install
+```
+
+Remplir la base de données et ajouter un utilisateur et lancer le serveur
+```bash
+ts-node src/utils/seedDatabase.ts
+ts-node src/utils/seedUser.ts
 npm run dev
 ```
 
